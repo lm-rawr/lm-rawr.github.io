@@ -1,0 +1,42 @@
+.flex-col {
+    display: inline-block;
+    flex-direction: column;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.justify-left {
+    justify-content: start;
+}
+
+.justify-mid {
+    justify-content: center;
+}
+
+.justify-right {
+    justify-content: flex-end;
+}
+
+
+
+.first {
+    float: left;
+    width: 20%;
+    height: 30%;
+    background-color: red;
+}
+
+
+/* .img {
+    height: 50%;
+    width: 50%;
+}
+ */
+/* .img-box {
+    margin-top: 10vh;
+} */
+
+/* @media only screen and (max-width: 600px) {} */
